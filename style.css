@@ -9,11 +9,11 @@ html, body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #FFC568;
+  background-color: #ffc568;
   font-size: 62.5%;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-@media screen and (max-width: 520px) {
+@media screen and (max-width: 600px) {
   html,
   body {
     font-size: 62.5%;
@@ -38,19 +38,19 @@ html, body {
 
 .line {
   fill: none;
-  stroke: #FFFFFF;
+  stroke: #b4e9cc;
   stroke-width: 8;
   stroke-linecap: round;
   stroke-miterlimit: 10;
 }
 
 .lttr {
-  fill: #763C8C;
+  fill: #f51296;
 }
 
 .sound {
   position: fixed;
-  color: #763C8C;
+  color: #ff06d5;
   font-size: 1.6rem;
   bottom: 1rem;
   right: 1rem;
